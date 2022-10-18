@@ -3,7 +3,7 @@
     "type": "library",
     "description": "A Laravel package for Twilio's API",
     "keywords": ["twilio", "sms", "api", "laravel"],
-    "homepage": "https://github.com/twilio/twilio-php",
+    "homepage": "https://github.com/GohilJaykumar/Laravel-Twilio",
     "license": "MIT",
     "authors": [
         {
