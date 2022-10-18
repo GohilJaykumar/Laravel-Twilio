@@ -8,7 +8,9 @@
     "authors": [
         {
             "name": "Gohil Jaykumar",
-            "email": "gohiljaykumar1996@gmail.com"
+            "email": "gohiljaykumar1996@gmail.com",
+            "homepage": "https://gohiljaykumar.com",
+            "role": "Creator & Maintainer"
         }
     ],
     "require": {
