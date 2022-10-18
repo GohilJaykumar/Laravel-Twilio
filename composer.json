@@ -2,7 +2,7 @@
     "name": "jkg/laravel-twilio",
     "type": "library",
     "description": "A Laravel package for Twilio's API",
-    "keywords": ["twilio", "sms", "api", "laravel"],
+    "keywords": ["twilio", "sms", "api", "laravel", "jkg"],
     "homepage": "https://github.com/GohilJaykumar/Laravel-Twilio",
     "license": "MIT",
     "authors": [
