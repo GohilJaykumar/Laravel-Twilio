@@ -21,7 +21,9 @@
         "phpunit/phpunit": ">=7.0"
     },
     "suggest": {
-        "guzzlehttp/guzzle": "An HTTP client to execute the API requests"
+        "guzzlehttp/guzzle": "An HTTP client to execute the API requests",
+        "jkg/backpack-crud": "Quickly build an admin interfaces using Laravel, CoreUI, Bootstrap and jQuery.",
+        "jkg/backpack-generators": "Required on localhost to easily generate CRUDs, models, controllers etc. Then run the installation command 'php artisan backpack:install'"
     },
     "autoload": {
         "psr-4": {
