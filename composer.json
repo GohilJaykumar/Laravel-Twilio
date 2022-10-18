@@ -1,5 +1,5 @@
 {
-    "name": "laravel/twilio",
+    "name": "jkg/laravel-twilio",
     "type": "library",
     "description": "A Laravel package for Twilio's API",
     "keywords": ["twilio", "sms", "api", "laravel"],
